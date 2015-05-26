@@ -1,0 +1,3 @@
+<span style="text-align:center"></span>
+<span style="text-align:right"></span>
+<span style="text-decoration:underline"></span>
